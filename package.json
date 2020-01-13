@@ -1,0 +1,17 @@
+{
+  "name": "02-pizza2",
+  "version": "1.0.0",
+  "description": "Ejemplo pizza 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ruth Huertas",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.17.1",
+    "graphql": "^14.5.8",
+    "graphql-server-express": "^1.4.1",
+    "pg-promise": "^10.3.2"
+  }
+}
